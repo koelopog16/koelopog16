@@ -1,4 +1,5 @@
 # Koelopog16
+![GitHub followers](https://img.shields.io/github/followers/koelopog16?label=Pls%20follow%20me&style=social)
 
 - 👋 Hi, I’m @koelopog16
 - 👀 I’m interested in Technology, Linux, Free software and GNU.
